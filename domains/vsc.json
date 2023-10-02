@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "DoxrGitHub",
+        "email": "sudoaptremovelife@skiff.com"
+    },
+    "description": "VSCode server hosted on Hop",
+    "record": {
+        "CNAME": ["border.hop.io"]
+    }
+}
